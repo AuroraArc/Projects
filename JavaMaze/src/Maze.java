@@ -29,6 +29,7 @@ public class Maze {
      @return all paths emanating from the position
      */
     public ArrayList<Path> pathsFrom(int row, int column) {
+
     }
 
     /**
