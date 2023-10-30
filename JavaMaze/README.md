@@ -1,2 +1,4 @@
 # Maze Solver
-A maze solving algorithm which aims to implement both depth-first search (DES) and breadth-first search (BFS) and determine which is more useful in what case.
+A maze-solving algorithm that aims to implement both depth-first search (DES) and breadth-first search (BFS) and determine which is more useful in what case. \
+\
+Adapted from Jay Horstmann's "Java Concepts: Early Objects, 7th Edition"
